@@ -23,7 +23,6 @@ foreign_worker_info_postal_code,applicant_postal_code,str
 foreign_worker_info_state,applicant_state,str
 job_info_education,job_education,str
 job_info_experience,job_experience,bool
-job_info_experience_num_months,job_experience_num_months,float64
 job_info_major,job_major,str
 job_info_work_city,job_city,str
 job_info_work_postal_code,job_postal_code,str
