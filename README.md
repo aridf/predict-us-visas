@@ -20,6 +20,9 @@ Contains code for data visualization and modelling.
 
 #### To Do
 
-1. Optimize model
-2. Predict Ari's application success likelihood
-3. Analyse differences between agent and non-agent applications (see cleaning_data.ipynb)
+1. Run fuzzywords to group similar categories for some categorical variables
+2. Implement cross-validation
+3. Optimize and compare models (logit, random forest, xgboost)
+4. Analyse differences between agent and non-agent applications (see cleaning_data.ipynb)
+5. Predict Ari's application success likelihood
+
